@@ -1,5 +1,5 @@
 const config = {
-  baseurl: 'https://zangetsu.cc',
+  baseurl: 'https://hianime.se',
   cdnApi: 'https://cdnanimo.xyz',
   embedCdn: 'https://cdn.4animo.xyz',
   flixera: 'https://flixera.co',
