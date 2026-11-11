@@ -1,5 +1,5 @@
 const config = {
-  baseurl: 'https://hianime.men',
+  baseurl: 'https://hianime.to',
   cdnApi: 'https://cdnanimo.xyz',
   embedCdn: 'https://cdn.4animo.xyz',
   flixera: 'https://flixera.co',
